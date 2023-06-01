@@ -2,7 +2,7 @@ Flask==1.1.2
 Requests==2.31.0
 SQLAlchemy==2.0.15
 mysqlclient~=2.1.1
-python-dotenv~=1.0.0
+python-dotenv
 gunicorn==20.1.0
 Jinja2==2.11.2
 PyMySQL==1.0.3
